@@ -2,7 +2,7 @@
 
 ## task_1
 
-![task1](readme.task1.png)
+![task1](task1.png)
 
 ## task_2
 

@@ -14,7 +14,7 @@
 
 ## task_4
 
-![task4](task_4.png)
+![task4](task4.png)
 
 ## task_5
 

@@ -6,11 +6,11 @@
 
 ## task_2
 
-![task2](readme.task2.png)
+![task2](task2.png)
 
 ## task_3
 
-![task3](readme.task3.png)
+![task3](task3.png)
 
 ## task_4
 
